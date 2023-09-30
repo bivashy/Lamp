@@ -6,6 +6,8 @@ include "bungee"
 include "cli"
 include "jda"
 include "velocity"
+include "sponge-7"
 include "sponge"
 include "brigadier"
+include 'paper-types'
 
